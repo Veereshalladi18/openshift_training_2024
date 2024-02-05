@@ -1,3 +1,3 @@
 <?php
-print("hello how are you");
- ? >
+echo "Hello World!";
+?>
